@@ -1,9 +1,7 @@
 public class SwapNumbers {
 
     public static void main(String[] args) {
-        int first = 10;
-        int second = 20;
-        float first = 1.20f, second = 2.45f;
+       
 
         System.out.println("Second number = " + second);
 
@@ -28,7 +26,9 @@ public class SwapNumbers {
 public class AddTwoIntegers {
 
     public static void main(String[] args) {
-
+ int first = 10;
+        int second = 20;
+        float first = 1.20f, second = 2.45f;
         int first = 10;
         int second = 20;
 
