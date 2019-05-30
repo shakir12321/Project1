@@ -1,7 +1,8 @@
 new remote file added by developer 2
- 
+added 1 text
 added 2 text
 added 4 text
 added 5 text
 added 6 text
-
+added 7
+added 8
